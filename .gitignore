@@ -1,0 +1,20 @@
+# Artefakty builda .NET
+bin/
+obj/
+Debug/
+Release/
+
+# Ustawienia Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pakiety / kopie
+*.nupkg
+*.snupkg
+
+# System
+Thumbs.db
+Desktop.ini
